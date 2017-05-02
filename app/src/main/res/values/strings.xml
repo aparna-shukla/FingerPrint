@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FingerPrint</string>
+    <string name="status_initializing">Initializing…</string>
+    <string name="use_fingerprint">Use fingerprint…</string>
+    <string name="use_dialog">Use dialog</string>
+    <string name="stop_scanning">Stop scanning</string>
+    <string name="start_scanning">Start scanning</string>
+    <string name="status_ready">Ready to authenticate</string>
+    <string name="status_scanning">Scanning fingerprint</string>
+    <string name="status_scanning_new">Scanning fingerprint (invalid key)</string>
+    <string name="status_authenticated">Authenticated</string>
+    <string name="status_error">Error: %1$s</string>
+    <string name="dialog_authenticated">Authenticated using dialog</string>
+    <string name="dialog_cancelled">Dialog cancelled</string>
+    <string name="fingerprint_description">Confirm fingerprint to continue.</string>
+    <string name="fingerprint_hint">Touch sensor</string>
+    <string name="password_description">Enter password to continue.</string>
+    <string name="new_fingerprint_enrolled_description">New fingerprint added, password is required to confirm.</string>
+    <string name="password">Password</string>
+    <string name="use_fingerprint_in_future">Use fingerprint in the future</string>
+    <string name="fingerprint_not_recognized">Fingerprint not recognized. Retry.</string>
+    <string name="no_fingerprints_registered">No fingerprint(s) registered.</string>
+    <string name="fingerprint_success">Fingerprint authenticated.</string>
+    <string name="use_password">Use password</string>
+    <string name="invalid_password">Invalid password. Retry.</string>
+    <string name="initializing">Initializing…</string>
+    <string name="sign_in">Sign in</string>
+</resources>
